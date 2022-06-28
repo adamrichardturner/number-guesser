@@ -14,7 +14,7 @@ Clone the repository and open index.html or simply visit the demo link above to 
 
 ## Functionality
 
-This simple app allows you to select a number from 1 - 10 (inclusive) and determines if you guessed the same number as one randomly selected by the computer. 
+This simple app allows you to select a number from 1 - 10 (inclusive) and determines if you guessed closer to the target number than the computer did. 
 
 It simply tests the ability to write functions and business logic for a basic game. Enjoy!
 
